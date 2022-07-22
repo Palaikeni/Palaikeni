@@ -2,7 +2,7 @@
 - 👀 I’m interested in a great many things, like the outdoors, sports, videogames, films, craft beers, etc.
 - 🌱 I’m currently learning frontend development beginning with HTML and CSS
 - 💞️ I’m looking to collaborate on nothing for the time being; I have little knowledge and am not currently capable of aiding anyone with contributions.
-- 📫 How to reach me: Send me a message here on Github I suppose.
+- 📫 How to reach me: Send me a message here on Github.
 
 <!---
 Palaikeni/Palaikeni is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
